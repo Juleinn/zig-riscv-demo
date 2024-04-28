@@ -1,2 +1,4 @@
 *.o
-demo
+zig-out/
+zig-cache/
+*.zon
